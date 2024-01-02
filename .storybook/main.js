@@ -9,6 +9,7 @@ const config = {
     "@storybook/addon-essentials",
     "@storybook/addon-onboarding",
     "@storybook/addon-interactions",
+    '@storybook/addon-designs', // 👈 Addon is registered here
   ],
   framework: {
     name: "@storybook/react-webpack5",
